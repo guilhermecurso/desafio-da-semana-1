@@ -152,8 +152,12 @@
  }
  
   #footer a img{
-    width: 90px;
-    height: 90px;
+    width: 60px;
+    height: 60px;
     display:flex;
 
+  }
+
+  #footer a img:hover{
+    transform: scale(1.4);
   }
